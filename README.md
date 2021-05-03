@@ -1,4 +1,4 @@
-# Consola Pac-Mank
+# Consola Pac-Man
 
 Proyecto GeeksHubs
 
@@ -28,8 +28,7 @@ Proyecto de frontend realizado por [Juan Felipe](https://github.com/juanfegalleg
 
 #Recomendaciones👌🏻
 
-Es recomendable descargar el repositorio (https://github.com/juanfegallego/Mando) en vez de ejecutarlo directamente 
-desde el enlace proporcionado por github (https://juanfegallego.github.io/Mando/), ya que el elemento "GIT" no se ejecuta correctamente 
+Es recomendable descargar el repositorio (https://github.com/juanfegallego/Mando) en vez de ejecutarlo directamente desde el enlace proporcionado por github (https://juanfegallego.github.io/Mando/), ya que el elemento "GIT" no se ejecuta correctamente 
 desde el navegador.
 
 <br>
